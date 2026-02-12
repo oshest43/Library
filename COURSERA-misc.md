@@ -13,8 +13,6 @@ https://www.coursera.org/professional-certificates/ibm-data-analyst
 ### Software Development Lifecycle Specialization
 https://www.coursera.org/specializations/software-development-lifecycle#courses
 
-
-## Individual Courses
 ### IBM Introduction to Software, Programming, and Databases 
 https://www.coursera.org/learn/introduction-software-programming-and-databases
 ### Four Rare Machine Learning Skills All Data Scientists Need
