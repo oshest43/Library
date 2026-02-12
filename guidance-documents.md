@@ -1,7 +1,7 @@
-# FDA Guidance Documents
+# FDA
 - STUDY DATA TECHNICAL CONFORMANCE GUIDE Technical Specifications Document (2021) https://fda.report/media/147233/StudyDataTechnicalConformanceGuide_v4-7_March_2021.pdf
 
-# ICH Guidlines
+# ICH
 - All guidlines https://www.ich.org/page/ich-guidelines
 - The Common Technical Document https://www.ich.org/page/ctd
 
